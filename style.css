@@ -1,0 +1,42 @@
+*{
+    font-family: poppins,sans-serif;
+    padding: 0;
+    margin: 0;
+    border-radius: 5px;
+}
+body{
+    background-color:rgb(250, 249, 249);
+
+}
+sup{
+    margin-right: 2px;
+    font-size: 10px;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+table tr td{
+    empty-cells: hide;
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+    height: 50px;
+}    
+div h1{
+    text-align: center;
+    background-color: #202124;
+    color: #ccc;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+.headers th{
+    padding: 10px;
+    color: black;
+
+}
+td:hover{   
+    transform: scale(1.5); 
+}
+
